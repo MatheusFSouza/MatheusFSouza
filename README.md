@@ -1,5 +1,5 @@
 ### Olá Eu sou o Matheus 👋
-- 🔭 Atualmente trabalhando como Desenvolvedor Web Full Stack
+- 🔭 Atualmente trabalhando como Desenvolvedor Web FullStack
 - 🌱 Atualmente estudando C# e React
 - 📫 Você consegue entrar em contato comigo por aqui: https://www.linkedin.com/in/matheus-ferreira-4756b5172/
 
